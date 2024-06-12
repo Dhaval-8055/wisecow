@@ -1,0 +1,15 @@
+2024-06-12 20:04:00,641 - INFO - High memory usage detected: 85.8%
+2024-06-12 20:04:00,642 - INFO - Low disk space available: 14.799999999999997% available, 85.2% used
+2024-06-12 20:04:00,648 - INFO - High number of running processes detected: 327
+2024-06-12 20:05:37,730 - INFO - High memory usage detected: 86.4%
+2024-06-12 20:05:37,732 - INFO - Low disk space available: 14.799999999999997% available, 85.2% used
+2024-06-12 20:05:37,737 - INFO - High number of running processes detected: 339
+2024-06-12 20:05:46,623 - INFO - High memory usage detected: 86.2%
+2024-06-12 20:05:46,624 - INFO - Low disk space available: 14.799999999999997% available, 85.2% used
+2024-06-12 20:05:46,634 - INFO - High number of running processes detected: 339
+2024-06-12 20:07:28,907 - INFO - High memory usage detected: 81.7%
+2024-06-12 20:07:28,909 - INFO - Low disk space available: 14.799999999999997% available, 85.2% used
+2024-06-12 20:07:28,919 - INFO - High number of running processes detected: 331
+2024-06-12 20:07:54,003 - INFO - High memory usage detected: 85.4%
+2024-06-12 20:07:54,005 - INFO - Low disk space available: 14.799999999999997% available, 85.2% used
+2024-06-12 20:07:54,012 - INFO - High number of running processes detected: 333
